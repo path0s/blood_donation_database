@@ -1,0 +1,7 @@
+Normalization:
+1NF: The schema is in 1NF because there are no multi-valued, composite, or combined attributes.
+2NF: For tables with a primary key composed of a single attribute, the test is unnecessary (DONOR, BLOOD_BAG, BLOOD_BANK, REQUEST, DOCTOR, PATIENT).
+3NF: All relationships are in 3NF because there are no transitive functional dependencies.
+
+Normalized Relational Schema:
+The normalized relational schema is the same as its initial state.
